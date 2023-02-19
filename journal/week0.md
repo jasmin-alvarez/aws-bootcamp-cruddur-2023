@@ -15,3 +15,8 @@ During the first week of the course, I was unable to attend the Saturday class d
 -I watched the security and billing considerations videos, and satisfactorily completed the quizzes to ensure I was fully informed of the course expectations.
 
 Although I inadvertently forked instead of using the designated template, resulting in the deletion of my initial repository, I have since restarted the process and remain confident in my readiness for the course. 
+
+Conceptual diagram
+
+![Conceptual diagram](https://user-images.githubusercontent.com/70730021/219909621-a05e1592-4b38-4a87-8d08-08b5ab235002.png)
+
