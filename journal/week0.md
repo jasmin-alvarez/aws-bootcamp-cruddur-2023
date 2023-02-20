@@ -20,3 +20,7 @@ Conceptual diagram
 
 ![Conceptual diagram](https://user-images.githubusercontent.com/70730021/219909621-a05e1592-4b38-4a87-8d08-08b5ab235002.png)
 
+
+
+Client - Server  Model 
+![Conceptual diagram - Clients-Server ](https://user-images.githubusercontent.com/70730021/219987172-a42d9abd-a12d-4e38-a830-4fbd8dec8b35.png)
