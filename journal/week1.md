@@ -131,6 +131,52 @@ Set the backend and frontend enivroment as shown
 ![F7C18228-103D-497B-B144-9379D4D45BE9](https://user-images.githubusercontent.com/70730021/222316303-3124bdc2-fa8e-4a13-ac9e-874aceac30d3.jpeg)
 
 
+Here is where I used the OPEN API extension which we are able to see the scheme of the API as shown below 
+
+
+![B79FC16D-EA52-4FA6-8394-D0047C6FC852](https://user-images.githubusercontent.com/70730021/222316674-531e1da5-f58d-4bcc-a3be-78d299f05714.jpeg)
+
+For my homework challenge I did build the front-end image into dockerhub using the Docker Extension with tag as Front-end . Here are the steps : 
+
+First, I created an account in Docker Hub. Then, I ran the following command to build the front-end image with a customized image:
+
+```
+docker build --pull --rm -f "frontend-react-js/Dockerfile" -t awsbootcampcr/uddur2023:front-end "frontend-react-js"
+
+```
+
+
+The front-end image with the custom tag (front-end) has been successfully uploaded to the Docker Hub Registry, and we can see the results here.
 
 
 
+
+![7C0917B1-27D6-4D07-9328-359E2909987A_1_105_c](https://user-images.githubusercontent.com/70730021/222319200-d345f55d-2610-408e-9f38-59729c1dcc76.jpeg)
+
+
+![68861C47-E0D8-4489-9BE4-05BE7B7335B1_1_105_c](https://user-images.githubusercontent.com/70730021/222319257-bbd56d2d-1e19-451b-9d1b-b49572efe955.jpeg)
+
+
+
+This was my attempt to run the containers outside of Gitpod 
+
+
+![24112E20-E649-4E5F-A52C-EDC0E8B28FA1_1_105_c](https://user-images.githubusercontent.com/70730021/222319394-df717300-fb43-4257-a206-4d5efde23376.jpeg)
+
+
+Contianer running after attemp as seen in Docker Desktop 
+
+![9D443BF8-65FC-4497-894A-CC8A140F3EAE_1_105_c](https://user-images.githubusercontent.com/70730021/222319470-6d385df8-6af5-4aee-804b-2e91b38f9dfc.jpeg)
+
+
+Learned that in Docker Desktop we are able to see the logs of our container as seen below 
+
+
+![FD276DEA-7879-4C78-87CD-C99DA962FCD8_1_105_c](https://user-images.githubusercontent.com/70730021/222319555-c4898927-592c-4ff6-a4a9-81fd7364d7c5.jpeg)
+
+
+I have already learned so much from this course, and I am looking forward to improving my journaling skills to better document my future learnings. 
+
+Until next time,
+
+Jasmin
